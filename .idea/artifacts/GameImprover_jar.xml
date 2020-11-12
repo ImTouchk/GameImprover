@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameImprover:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameImprover_jar</output-path>
+    <root id="archive" name="GameImprover.jar">
+      <element id="module-output" name="GameImprover" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ext/paper-265.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

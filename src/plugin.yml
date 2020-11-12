@@ -1,0 +1,19 @@
+name: GameImprover
+author: ImTouchk
+version: 2
+api-version: 1.16
+main: net.ImTouchk.Main
+
+commands:
+  bettersleep:
+    description: Configure the BetterSleep module.
+    usage:
+    permission:
+  graveyard:
+    description: Configure the Graveyard module.
+    usage:
+    permission:
+  randomdrops:
+    description: Configure the RandomDrops module.
+    usage:
+    permission:

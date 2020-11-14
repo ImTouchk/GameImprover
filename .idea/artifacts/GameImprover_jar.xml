@@ -3,7 +3,8 @@
     <output-path>$PROJECT_DIR$/out/artifacts/GameImprover_jar</output-path>
     <root id="archive" name="GameImprover.jar">
       <element id="module-output" name="GameImprover" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/ext/paper-265.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ext/spigot-api-1.16.4-R0.1-20201104.085333-8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/ext/spigot-1.16.3-R0.1-SNAPSHOT.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>

@@ -17,3 +17,7 @@ commands:
     description: Configure the RandomDrops module.
     usage:
     permission:
+  manhunt:
+    description: Configure the Manhunt module.
+    usage:
+    permission:

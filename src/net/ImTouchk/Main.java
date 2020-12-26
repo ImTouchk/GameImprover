@@ -18,6 +18,7 @@ public class Main extends JavaPlugin {
         modules.add(new DurabilityNotifier());
         modules.add(new RandomDrops());
         modules.add(new Manhunt());
+        modules.add(new ShulkerDrops());
         for(Module module : modules) {
             getServer().getPluginManager().registerEvents(module, this);
             if(!module.getName().equalsIgnoreCase("null"))

@@ -21,3 +21,7 @@ commands:
     description: Configure the Manhunt module.
     usage:
     permission:
+  shulkerdrops:
+    description: Configure the ShulkerDrops module.
+    usage:
+    permission:

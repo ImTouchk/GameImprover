@@ -72,7 +72,7 @@ public class Graveyard implements Module {
         e.setDroppedExp(0);
 
         player.sendMessage(String.format("%s You have died at %s{x: %d, y: %d, z: %d}%s.", CommonText.info(), ChatColor.GREEN,
-                (Integer)chest.getLocation().getBlockY(), (Integer)chest.getLocation().getBlockY(), (Integer)chest.getLocation().getBlockZ(),
+                chest.getLocation().getX(), chest.getLocation().getY(), chest.getLocation().getZ(),
                 ChatColor.RESET));
     }
 
